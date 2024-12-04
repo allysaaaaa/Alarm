@@ -1,0 +1,4 @@
+package Monday;
+
+abstract class Weekday implements Alarm {
+}
